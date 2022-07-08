@@ -1,0 +1,7 @@
+C:\Users\Noor\source\repos\Project3\obj\Debug\Project3.csprojAssemblyReference.cache
+C:\Users\Noor\source\repos\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+C:\Users\Noor\source\repos\Project3\bin\Debug\Project3.exe.config
+C:\Users\Noor\source\repos\Project3\bin\Debug\Project3.exe
+C:\Users\Noor\source\repos\Project3\bin\Debug\Project3.pdb
+C:\Users\Noor\source\repos\Project3\obj\Debug\Project3.exe
+C:\Users\Noor\source\repos\Project3\obj\Debug\Project3.pdb
